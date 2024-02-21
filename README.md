@@ -1,16 +1,14 @@
-### Hi there 👋
+# Halo semua!
 
-<!--
-**fikri59/fikri59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+perkenalka nama saya **Muhammad fikriansyah Junaryana Putra**.<br>
 
-Here are some ideas to get you started:
+Saya adalah mahasiswa dari perguruan tinggi **STMIK Mardira indonesia**<br>.
+Saya belajar juga di kampus merdeka mitra Dicoding sebagai study independent.<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saya belajar pemograman dasar hingga mahir dalam mengoding sebagai hardskill yang saya miliki.<br>
+bahasa pemograman yang saya gunakan adalah **JavaScript**.<br>
+selain itu saya memiliki beberapa Softskill yang saya pelajari yaitu : <br>
+- desain grafis
+- editing video
+- dokumenter video
+- 3D model dan animasi
